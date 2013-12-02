@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN" "http://standards.freedesktop.org/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Favorites</Name>
+  <DefaultAppDirs/>
+  <DefaultDirectoryDirs/>
+  <Layout>
+    <Filename>7zFM.desktop</Filename>
+    <Filename>chromium.desktop</Filename>
+  </Layout>
+  <Include>
+    <Filename>7zFM.desktop</Filename>
+    <Filename>chromium.desktop</Filename>
+  </Include>
+</Menu>
