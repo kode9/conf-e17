@@ -7,9 +7,13 @@
   <Layout>
     <Filename>7zFM.desktop</Filename>
     <Filename>chromium.desktop</Filename>
+    <Filename>emacs.desktop</Filename>
+    <Filename>pavucontrol.desktop</Filename>
   </Layout>
   <Include>
     <Filename>7zFM.desktop</Filename>
     <Filename>chromium.desktop</Filename>
+    <Filename>emacs.desktop</Filename>
+    <Filename>pavucontrol.desktop</Filename>
   </Include>
 </Menu>
