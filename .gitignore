@@ -4,5 +4,14 @@ e/icons/
 e/images/
 e/fileman/thumbnails/
 e/fileman/custom.cfg
-e/config/pluc/exehist*.cfg
-e/config/pluc/evry_exebuf_cache.*.cfg
+
+e/config/**/e.cfg
+e/config/**/e.?.cfg
+e/config/**/e_randr.cfg
+e/config/**/e_randr.?.cfg
+e/config/**/exehist.cfg
+e/config/**/exehist.?.cfg
+e/config/**/evry_exebuf_cache.?.cfg
+e/config/**/e_remember_restart.?.cfg
+e/config/**/module.everything.?.cfg
+e/config/**/module.mixer.?.cfg
