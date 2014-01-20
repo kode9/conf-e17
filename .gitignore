@@ -14,5 +14,7 @@ e/config/**/exehist.?.cfg
 e/config/**/evry_exebuf_cache.?.cfg
 e/config/**/e_remember_restart.?.cfg
 e/config/**/module.everything.?.cfg
+e/config/**/module.everything.cache.cfg
 e/config/**/module.everything.cache.?.cfg
 e/config/**/module.mixer.?.cfg
+e/config/pluc/evry_exebuf_cache.cfg
